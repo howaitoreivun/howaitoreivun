@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="left">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=howaitoreivun&show_icons=true&hide_border=true&theme=default&bg_color=0d1117&title_color=a27d95&icon_color=a27d95&text_color=c9d1d9" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=moretsu&hide_border=true&theme=default&bg_color=0d1117&title_color=a27d95&icon_color=a27d95&text_color=c9d1d9&card_width=445" />
 
-<!--
-**howaitoreivun/howaitoreivun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Hello 👋
+  
+  I'm currently a student of business informatics who's trying to learn more about programming and people. Even though I'm studying in an economics direction, I'm more interested in computer science. 
+  
+  So far I've been learning different languages, such as JavaScript (including TypeScript and Node), Java and Kotlin, C++ and Rust, but still, Python is my favourite one.
+  
+  One of my biggest accomplishments was getting the Discord Bug Hunter badge in 2019, it took me some time, but I'm glad to have this experience.
+</p>
