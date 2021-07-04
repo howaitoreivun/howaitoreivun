@@ -4,9 +4,7 @@
 
   ### Hello 👋
   
-  I'm currently a student of business informatics who's trying to learn more about programming and people. Even though I'm studying in an economics direction, I'm more interested in computer science. 
+  I'm a student of economics and management, studying the course of business informatics. I'm keen on the world of programming, new technologies, different coding languages. Although I study at the Faculty of Economics, I'm more engaged in software engineering.  
   
-  So far I've been learning different languages, such as JavaScript (including TypeScript and Node), Java and Kotlin, C++ and Rust, but still, Python is my favourite one.
-  
-  One of my biggest accomplishments was getting the Discord Bug Hunter badge in 2019, it took me some time, but I'm glad to have this experience.
+  Over time I have experimented with various languages, such as JavaScript and TypeScript, Java and Kotlin, a bit of C++ and Rust, C# at university. Nevertheless, my absolute favourite has always been and continues to be Python.
 </p>
