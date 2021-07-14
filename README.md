@@ -1,5 +1,5 @@
 <p align="left">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=snezhniy&show_icons=true&hide_border=true&theme=default&bg_color=0d1117&title_color=b0deff&icon_color=b0deff&text_color=c9d1d9" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=snezhniy&show_icons=true&hide_border=true&theme=default&bg_color=0d1117&title_color=6f9c71&icon_color=6f9c71&text_color=c9d1d9" />
   <!-- img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=moretsu&hide_border=true&theme=default&bg_color=0d1117&title_color=b0deff&icon_color=a27d95&text_color=c9d1d9&card_width=445" / !-->
 
   ### Hello 👋
